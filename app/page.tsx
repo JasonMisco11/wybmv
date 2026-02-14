@@ -313,9 +313,9 @@ export default function ValentinePage() {
 
       {/* Section 9: Outro */}
       <div className="nine">
-        <p>Okay, now come back and tell me if you liked it.</p>
+        <p>Imagine how beautiful it'll be when this isn't just words anymore.If you think this is sweet, wait till I show you in person.</p>
         <p id="replay" onClick={handleReplay}>
-          Or click, if you want to watch it again.
+          Reload, if you want to watch it again.
         </p>
         <p className="last-smile">:)</p>
       </div>
